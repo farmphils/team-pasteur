@@ -13,7 +13,7 @@ Welcome to HackBio Team Pasteur 2021. Shall you have queries please post them as
 7. Faozil#8423
 8. iamjamesuche#7502
 9. PhilipNkwam#6395
-10.Shubhangi#7338
+10. Shubhangi#7338
 
 ## Tasks
 #### Task 1
