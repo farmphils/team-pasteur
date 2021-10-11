@@ -1,5 +1,5 @@
 name <- "James Uche"
-email <- "uchej@student.babcock.edu.ng"
+email <- "jamezist@gmail.com"
 discord_username <- "@iamjamesuche#7502"
 biostack <- "Data Science"
 cat (name,email,discord_username,biostack,sep=", ")
