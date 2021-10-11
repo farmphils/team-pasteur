@@ -1,0 +1,6 @@
+name="Asibor Philip"
+Email="asiborphilips@gmail.com"
+Discordusername="@asiborphilip"
+Biostack="Genomics"
+
+print("Name:",name,"\nEmail:",Email,"\nDiscord Username:",Discordusername,"\nBiostack:",Biostack,"")
