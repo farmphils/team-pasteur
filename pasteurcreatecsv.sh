@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#assign working directory variable
+WD=$PWD
+
 #clone git repository
 git clone https://github.com/farmphils/team-pasteur
 
@@ -24,6 +27,9 @@ cat *.txt > TEAMPASTEUR.csv
 
 #remove all .txt files
 rm *.txt
+
+#move CSV file to working directory
+mv TEAMPASTEUR.csv $WD
 
 #print csv file name and location after processing CSV file
 echo "CSV file in present working directory as TEAMPASTEUR.csv"
