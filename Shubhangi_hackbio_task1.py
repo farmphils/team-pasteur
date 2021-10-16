@@ -7,7 +7,7 @@
 
 name= "Shubhangi Chakraborty"
 email= "chakraborty.shubhangi@gmail.com"
-Slack="Shubhangi-chakraborty"
+Slack="@shubhangi-chakraborty"
 Biostack1="Vaccine Informatics"
 print(name,",",email,",",Slack,",",Biostack1)
 
