@@ -1,6 +1,0 @@
-name= "Shubhangi Chakraborty"
-email= "chakraborty.shubhangi@gmail.com"
-Discord="Shubhangi#7338"
-Biostack1="Vaccine Informatics"
-Biostack2="Drug Discovery"
-print(name , email, Discord, Biostack1, Biostack2)
