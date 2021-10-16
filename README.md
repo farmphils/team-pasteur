@@ -1,19 +1,23 @@
 
-# Team Pasteur
+![](https://github.com/farmphils/team-pasteur/blob/main/HBTPASTEUR.png)
 
-Welcome to HackBio Team Pasteur 2021. Shall you have queries please post them as `issues` or in [Discord](https://discord.com/invite/rHXpmbKE) `team-pasteur` channel.
+## **Description**
 
-### Team Members
-1. asiborphilip **(Team Lead)**
-2. dauntless#6134
-3. israel-ebhohimen#9479
-4. rohitsatyam#9664
-5. girlinred42#0700
-6. BelalBasheer#5768
-7. Faozil#8423
-8. iamjamesuche#7502
-9. PhilipNkwam#6395
-10. Shubhangi#7338
+HackBio is a 5-weeks virtual research internship that is practice-oriented and focused on equipping scientists globally with advanced bioinformatics and computational biology skills. The goal of this internship is to provide reasonable research experience with at least proof of publication/preprint that is tenable in their career progression efforts.
+
+## **The Team**
+
+Named after the renowned late French chemist and microbiologist, Louis Pasteur, the team seeks to explore a plethora of opportunities made available by hackbio towards learning and mastering bioinformatics tools- these tools would prepare us for groundbreaking scientific discoveries in genomics, drug discovery, and diverse disciplines. Its 4 members working together despite diverse backgrounds form a blossoming environment and experience for us all during this internship.
+
+**Team Contributors (Name – Slack Username)**
+
+**Asibor Philip** - @asiborphilip **(Team Lead)**
+
+**Israel Ebhohimen** - @israel-ebhohimen
+
+**James Uche** - @iamjamesuche
+
+**Shubhangi Chakraborty** - @shubhangi-chakraborty
 
 ## Tasks
 #### Task 1
