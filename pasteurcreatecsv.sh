@@ -10,7 +10,7 @@ cd team-pasteur
 echo "Name, Email, Slack_Username, Biostack" > 1.txt
 
 #run python script and save output to text file 
-python Shubhangi_Hackbio_Task_1_Script.py > sht1.txt
+python Shubhangi_Hackbio_Task1.py > sht1.txt
 
 python Asibor_Philip_Task_1.py > apt1.txt
 
